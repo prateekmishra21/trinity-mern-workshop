@@ -1,0 +1,14 @@
+## express - web framework
+## mongoose - mongoDB
+## nodemon - default server run
+## body-parser  ---- to get data inside request body
+
+
+
+###### HTTP Methods #####
+GET, POST, PUT, DELETE
+
+GET -> What browser want soeme data 
+
+POST ->  What browser want send data
+
